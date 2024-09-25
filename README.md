@@ -1,37 +1,39 @@
-<!-- Add an Animated MasterHead -->
-[![MasterHead](https://media.giphy.com/media/l0HlWwk1XWTJCXHag/giphy.gif)](https://github.com/AbrarRagib)
+<!-- Add an eye-catching header -->
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZiZjQ2MzFkNmE0ZDAwZWIxMDg0MjRmYzQ5NmJjZjYyNjU0MmU3MyZjdD1z/3o7btWnrlbk43vtddK/giphy.gif)](https://github.com/AbrarRagib)
+<h1 align="center">Hey there, I'm Abrar Ragib! 👋</h1>
+<h3 align="center">🚀 Quality Assurance Engineer | Python Enthusiast | Automation Wizard 🧙‍♂️</h3>
 
-<h1 align="center">Hi 👋, I'm Abrar Ragib</h1>
-<h3 align="center">🚀 A passionate SQA Engineer with expertise in Python Automation</h3>
-
-<!-- Include a small personal GIF or image -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<!-- Introduction & Skills -->
-- 🔭 I’m currently working on **Python with Selenium Test Automation**  
-- 🌱 I’m expanding my skills in **Python**, **Postman Automation**, **Machine Learning**, and **Database Management**  
-- 👯 I’m open to collaboration on **Machine Learning** projects  
-- 🤝 I’m looking for help with **Interesting automation projects**  
-- 📫 Reach me at: **arsragib@gmail.com**  
-- ⚡ Fun fact: **I’m an introvert who loves problem-solving!**
+<!-- New stunning coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ---
 
-<h2 align="center">🚀 Skills</h2>
+### 😎 About Me
+- 🔭 Currently working on **Python & Selenium** to automate testing!  
+- 🧠 Continuously learning **Machine Learning**, **Postman Automation**, and databases like **MySQL**  
+- 🤝 Open to collaboration on **Machine Learning** and **Automation Projects**  
+- 💬 Hit me up for discussions about **Python**, **Automation**, or if you want to share a good meme  
+- 📫 How to reach me: **arsragib@gmail.com**  
+- ⚡ Fun fact: I prefer my code to be as clean as my room… sadly, one of them is messy! 😅
+
+---
+
+### 💡 Tech Skills – Tools of my Trade 🛠️
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   <img src="https://img.shields.io/badge/Selenium-%2340a13e.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </p>
 
 ---
 
-<!-- Add GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+### 🎯 My Stats – Watch Me Shine 🌟
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbrarRagib&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrarRagib&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -40,29 +42,32 @@
 
 ---
 
-<!-- Social Links -->
-<h2 align="center">🌐 Connect with Me</h2>
+### 🚀 Python Superpowers – What I Love to Do:
+- 🐍 Python for **Automation**: Automating the boring stuff so I can focus on the fun things  
+- 🧪 Building powerful **test scripts** with **Selenium** that catch bugs before they escape!  
+- 🧠 Diving into **Machine Learning** to unlock the mysteries of data and AI  
+
+---
+
+### 🌐 Let's Connect – Find Me Here!
 <p align="center">
-  <a href="https://twitter.com/arsragib" target="blank">
+  <a href="https://twitter.com/arsragib" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/abrar-ragib" target="blank">
+  <a href="https://linkedin.com/in/abrar-ragib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/arsragib" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/arsragib" target="blank">
+  <a href="https://instagram.com/arsragib" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.leetcode.com/abrarragib" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://fb.com/arsragib" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+### 💻 Tools I Use:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   <img src="https://img.shields.io/badge/Selenium-%2340a13e.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
@@ -71,6 +76,9 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
 </p>
+
+---
+
+### ✨ Fun Fact of the Day:
+"Why settle for manual testing when you can automate everything?"

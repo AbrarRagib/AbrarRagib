@@ -4,11 +4,11 @@
 <h3 align="center">🚀 Quality Assurance Engineer | Python Enthusiast | Automation Wizard 🧙‍♂️</h3>
 
 <!-- New stunning coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-### 😎 About Me
+### 💡 About Me
 - 🔭 Currently working on **Python & Selenium** to automate testing!  
 - 🧠 Continuously learning **Machine Learning**, **Postman Automation**, and databases like **MySQL**  
 - 🤝 Open to collaboration on **Machine Learning** and **Automation Projects**  

@@ -14,7 +14,7 @@
 - 🤝 Open to collaboration on **Machine Learning** and **Automation Projects**  
 - 💬 Hit me up for discussions about **Python**, **Automation**, or if you want to share a good meme  
 - 📫 How to reach me: **arsragib@gmail.com**
-- 🌐 Check out my website: abrarragib.github.io
+- 🌐 Check out my website: [abrarragib.github.io](https://abrarragib.github.io/)
 - ⚡ Fun fact: I prefer my code to be as clean as my room… sadly, one of them is messy! 😅
 
 ---

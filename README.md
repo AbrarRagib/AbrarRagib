@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   <img src="https://img.shields.io/badge/Selenium-%2340a13e.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  <img src="https://img.shields.io/badge/JMeter-DA3D34.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>

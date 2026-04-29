@@ -1,87 +1,175 @@
-<!-- Add an eye-catching header -->
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZiZjQ2MzFkNmE0ZDAwZWIxMDg0MjRmYzQ5NmJjZjYyNjU0MmU3MyZjdD1z/3o7btWnrlbk43vtddK/giphy.gif)](https://github.com/AbrarRagib)
-<h1 align="center">Hey there, I'm Abrar Ragib! 👋</h1>
-<h3 align="center">🚀 Quality Assurance Engineer | Python Enthusiast | Automation Wizard 🧙‍♂️</h3>
+<div align="center">
 
-<!-- New stunning coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Abrar%20Ragib&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Quality%20Assurance%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-### 💡 About Me
-- 🔭 Currently working on **Python & Selenium** to automate testing!  
-- 🧠 Continuously learning **Machine Learning**, **Postman Automation**, and databases like **MySQL**  
-- 🤝 Open to collaboration on **Machine Learning** and **Automation Projects**  
-- 💬 Hit me up for discussions about **Python**, **Automation**, or if you want to share a good meme  
-- 📫 How to reach me: **arsragib@gmail.com**
-- 🌐 Check out my website: [**abrarragib.github.io**](https://abrarragib.github.io/)
-- ⚡ Fun fact: I prefer my code to be as clean as my room… sadly, one of them is messy! 😅
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00E5C0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Breaking+software+so+users+don%27t+have+to.;98%25+defect+reproduction+accuracy.;Selenium+%7C+JMeter+%7C+Postman+%7C+CI%2FCD)](https://abrarragib.github.io)
 
-### 💡 Tech Skills – Tools of my Trade 🛠️
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/Selenium-%2340a13e.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/JMeter-DA3D34.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-</p>
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abrarragib.github.io-6c63ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://abrarragib.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abrar--ragib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-ragib)
+[![Email](https://img.shields.io/badge/Email-arsragib@gmail.com-00e5c0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsragib@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-ff5e5e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
-### 🎯 My Stats – Watch Me Shine 🌟
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbrarRagib&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrarRagib&theme=radical" alt="GitHub Streak Stats" />
-</p>
+## `$ whoami`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarRagib&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+```python
+class AbrarRagib:
+    name       = "Abrar Ragib"
+    role       = "Software Quality Assurance Engineer"
+    company    = "Apurba Technologies Ltd."
+    location   = "Dhaka, Bangladesh"
+    education  = "B.Sc CSE — American International University–Bangladesh (AIUB)"
 
----
+    experience = {
+        "Apurba Technologies"  : "SQA Engineer       · Jun 2025 – Present",
+        "Dream71 Bangladesh"   : "SQA Trainee        · Jun 2024 – Oct 2024",
+        "Data-Path Ltd."       : "Executive Officer  · Nov 2022 – Jan 2024",
+        "AIUB"                 : "Teaching Assistant · Jun 2021 – Jan 2022",
+    }
 
-### 🚀 Python Superpowers – What I Love to Do:
-- 🐍 Python for **Automation**: Automating the boring stuff so I can focus on the fun things  
-- 🧪 Building powerful **test scripts** with **Selenium** that catch bugs before they escape!  
-- 🧠 Diving into **Machine Learning** to unlock the mysteries of data and AI  
+    achievements = [
+        "98% defect reproduction accuracy across all release cycles",
+        "35% reduction in manual regression via Selenium automation",
+        "40% improvement in API test coverage (Python framework)",
+        "10,000+ concurrent users load-tested on national platform",
+    ]
 
----
-
-### 🌐 Let's Connect – Find Me Here!
-<p align="center">
-  <a href="https://twitter.com/arsragib" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/abrar-ragib" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/arsragib" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://fb.com/arsragib" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+    currently_learning = ["Docker", "Kubernetes", "Kafka", "Redis", "Microservices"]
+    open_to_work       = True
+```
 
 ---
 
-### 💻 Tools I Use:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/Selenium-%2340a13e.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/JMeter-DA3D34.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-</p>
+## `$ cat skills.txt`
+
+**Testing**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-18181f?style=flat-square&logoColor=00e5c0&logo=checkmarx)
+![Regression](https://img.shields.io/badge/Regression%20Testing-18181f?style=flat-square&logoColor=00e5c0&logo=checkmarx)
+![Smoke & Sanity](https://img.shields.io/badge/Smoke%20%26%20Sanity-18181f?style=flat-square&logoColor=00e5c0&logo=checkmarx)
+![Performance](https://img.shields.io/badge/Performance%20Testing-18181f?style=flat-square&logoColor=00e5c0&logo=checkmarx)
+![Accessibility](https://img.shields.io/badge/WCAG%20Accessibility-18181f?style=flat-square&logoColor=00e5c0&logo=checkmarx)
+![Cross-Platform](https://img.shields.io/badge/Cross--Platform-18181f?style=flat-square&logoColor=00e5c0&logo=checkmarx)
+
+**Automation & Tools**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Process & Methodology**
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6c63ff?style=flat-square&logoColor=white)
+![STLC](https://img.shields.io/badge/STLC-18181f?style=flat-square&logoColor=00e5c0)
+![SDLC](https://img.shields.io/badge/SDLC-18181f?style=flat-square&logoColor=00e5c0)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
 ---
 
-### ✨ Fun Fact of the Day:
-"Why settle for manual testing when you can automate everything?"
+## `$ ls projects/`
+
+| Project | Type | Stack | Impact |
+|---|---|---|---|
+| **[Bangla OCR System](https://ocr.bangla.gov.bd)** | 🏛 Govt · National | Selenium, JMeter, Manual | 4 platforms · 98% repro rate |
+| **Kagoj.ai — AI OCR** | 🏛 Govt · AI | Functional, Edge Cases | Defects adopted into next release |
+| **Screen Reader ALO** | 🏛 Govt · Accessibility | WCAG, Cross-Platform | Windows + Android · WCAG compliant |
+| **Font Conversion Engine** | 🏛 Govt · Compatibility | Cross-Platform Testing | ASCII→Unicode across web & desktop |
+| **BSCIC Online Market** | 🏛 Govt · E-Commerce | Apache JMeter | **10,000+ concurrent users** simulated |
+| **Selenium Regression Suite** | ⚙️ Automation | Selenium, Python, CI/CD | **30% reduction** in manual effort |
+| **Spotify API Framework** | 🔌 API Testing | Postman, Python requests | **40% increase** in API coverage |
+
+---
+
+## `$ cat stats.json`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbrarRagib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060608&title_color=6c63ff&icon_color=00e5c0&text_color=f0f0f8&ring_color=6c63ff" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AbrarRagib&theme=tokyonight&hide_border=true&background=060608&ring=6c63ff&fire=00e5c0&currStreakLabel=00e5c0&sideLabels=f0f0f8&dates=8888aa" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarRagib&layout=compact&theme=tokyonight&hide_border=true&bg_color=060608&title_color=6c63ff&text_color=f0f0f8" />
+
+</div>
+
+---
+
+## `$ cat experience.log`
+
+```
+▶  Jun 2025 – Present   │  Apurba Technologies Ltd.
+                         │  Software Quality Assurance Engineer
+                         │  → End-to-end QA for national government OCR & accessibility platforms
+                         │  → Selenium automation reduced manual regression by 35%
+                         │  → WCAG compliance validation for accessibility audit readiness
+
+▶  Jun 2024 – Oct 2024  │  Dream71 Bangladesh Ltd.
+                         │  Software Quality Assurance Trainee
+                         │  → Tested UNDP-funded government digital transformation projects
+                         │  → JMeter performance testing informed pre-release infrastructure decisions
+                         │  ✦  SQA Trainee Certification awarded
+
+▶  Nov 2022 – Jan 2024  │  Data-Path Ltd.
+                         │  Executive Officer
+                         │  → Validated 401(k) plan data for U.S. clients
+                         │  → Excel macros + SQL automation reduced processing time
+
+▶  Jun 2021 – Jan 2022  │  AIUB
+                         │  Teaching Assistant — Computer Science
+                         │  → C++ & computer graphics lab sessions for 50+ students
+```
+
+---
+
+## `$ ping abrarragib`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-6c63ff?style=for-the-badge)](https://abrarragib.github.io)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/abrar-ragib)
+[![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-00e5c0?style=for-the-badge)](mailto:arsragib@gmail.com)
+[![Phone](https://img.shields.io/badge/📱%20Phone-%2B880%201746--995446-ff5e5e?style=for-the-badge)](tel:+8801746995446)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│   Open to SQA Engineer roles · Dhaka or Remote          │
+│   Breaking software so users don't have to.  ✓          │
+└─────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
+
+</div>

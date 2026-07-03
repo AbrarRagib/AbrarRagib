@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00E5C0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Breaking+software+so+users+don%27t+have+to.;98%25+defect+reproduction+accuracy.;Selenium+%7C+JMeter+%7C+Postman+%7C+CI%2FCD)](https://abrarragib.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00E5C0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Breaking+software+so+users+don%27t+have+to.;98%25+defect+reproduction+accuracy.;Selenium+%7C+Playwright+%7C+JMeter+%7C+Postman)](https://abrarragib.github.io)
 
 </div>
 
@@ -65,6 +65,7 @@ class AbrarRagib:
 **Automation & Tools**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -144,6 +145,7 @@ class AbrarRagib:
 ▶  Jun 2021 – Jan 2022  │  AIUB
                          │  Teaching Assistant — Computer Science
                          │  → C++ & computer graphics lab sessions for 50+ students
+
 ```
 
 ---

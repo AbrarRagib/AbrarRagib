@@ -110,11 +110,11 @@ class AbrarRagib:
 | Project | Stack |
 |---|---|
 | **[Amazon UI Automation](https://github.com/AbrarRagib/Amazon-UI-Automation)** | Selenium · Python · Page Object Model |
-| **[Daraz UI Automation](https://github.com/AbrarRagib)** | Selenium · Python · E-Commerce Flows |
+| **[Daraz UI Automation](https://github.com/AbrarRagib/daraz-ui-automation)** | Selenium · Python · E-Commerce Flows |
 | **[API Test Automation](https://github.com/AbrarRagib/api-test-automation)** | Postman · Python · REST API |
-| **[Spotify API Integration](https://github.com/AbrarRagib)** | Python · REST API · OAuth |
-| **[JMeter Load Testing (Restful-Booker)](https://github.com/AbrarRagib)** | Apache JMeter · Performance |
-| **[Security Testing](https://github.com/AbrarRagib)** | Web Security · OWASP |
+| **[Spotify API Integration](https://github.com/AbrarRagib/Spotify-API-Python-Integration)** | Python · REST API · OAuth |
+| **[JMeter Load Testing (Restful-Booker)](https://github.com/AbrarRagib/Jmeter-load-testing-restful-booker)** | Apache JMeter · Performance |
+| **[Security Testing]([https://github.com/AbrarRagib](https://github.com/AbrarRagib/Security-Testing))** | Web Security · OWASP |
 
 > ↗ Browse everything on [github.com/AbrarRagib](https://github.com/AbrarRagib)
 

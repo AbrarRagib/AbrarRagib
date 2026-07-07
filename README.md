@@ -114,7 +114,7 @@ class AbrarRagib:
 | **[API Test Automation](https://github.com/AbrarRagib/api-test-automation)** | Postman · Python · REST API |
 | **[Spotify API Integration](https://github.com/AbrarRagib/Spotify-API-Python-Integration)** | Python · REST API · OAuth |
 | **[JMeter Load Testing (Restful-Booker)](https://github.com/AbrarRagib/Jmeter-load-testing-restful-booker)** | Apache JMeter · Performance |
-| **[Security Testing]([https://github.com/AbrarRagib](https://github.com/AbrarRagib/Security-Testing))** | Web Security · OWASP |
+| **[Security Testing](https://github.com/AbrarRagib/Security-Testing)** | Web Security · OWASP |
 
 > ↗ Browse everything on [github.com/AbrarRagib](https://github.com/AbrarRagib)
 

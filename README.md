@@ -96,12 +96,27 @@ class AbrarRagib:
 | Project | Type | Stack | Impact |
 |---|---|---|---|
 | **[Bangla OCR System](https://ocr.bangla.gov.bd)** | 🏛 Govt · National | Selenium, JMeter, Manual | 4 platforms · 98% repro rate |
-| **Kagoj.ai — AI OCR** | 🏛 Govt · AI | Functional, Edge Cases | Defects adopted into next release |
-| **Screen Reader ALO** | 🏛 Govt · Accessibility | WCAG, Cross-Platform | Windows + Android · WCAG compliant |
-| **Font Conversion Engine** | 🏛 Govt · Compatibility | Cross-Platform Testing | ASCII→Unicode across web & desktop |
-| **BSCIC Online Market** | 🏛 Govt · E-Commerce | Apache JMeter | **10,000+ concurrent users** simulated |
-| **Selenium Regression Suite** | ⚙️ Automation | Selenium, Python, CI/CD | **30% reduction** in manual effort |
-| **Spotify API Framework** | 🔌 API Testing | Postman, Python requests | **40% increase** in API coverage |
+| **[Kagoj.ai — AI OCR](https://kagoj.ai)** | 🏛 Govt · AI | Functional, Edge Cases | Defects adopted into next release |
+| **[Screen Reader ALO](https://github.com/AbrarRagib)** | 🏛 Govt · Accessibility | WCAG, Cross-Platform | Windows + Android · WCAG compliant |
+| **[Font Conversion Engine](https://fontengine.bangla.gov.bd)** | 🏛 Govt · Compatibility | Cross-Platform Testing | ASCII→Unicode across web & desktop |
+| **[BSCIC Online Market](https://bscicemarket.gov.bd)** | 🏛 Govt · E-Commerce | Apache JMeter | **10,000+ concurrent users** simulated |
+| **[Apurba HRM](https://hrm.apurbatech.io)** | 🏢 Enterprise · HRM | Playwright, API, Jira | Leave / attendance / payroll · API automated |
+| **[Apurba Fin Doc](https://findoc.apurbatech.io)** | 🏢 Enterprise · OCR | Postman, API, Automation | Bank-doc extraction · ML collaboration |
+
+---
+
+## `$ ls ~/personal/`
+
+| Project | Stack |
+|---|---|
+| **[Amazon UI Automation](https://github.com/AbrarRagib/Amazon-UI-Automation)** | Selenium · Python · Page Object Model |
+| **[Daraz UI Automation](https://github.com/AbrarRagib)** | Selenium · Python · E-Commerce Flows |
+| **[API Test Automation](https://github.com/AbrarRagib/api-test-automation)** | Postman · Python · REST API |
+| **[Spotify API Integration](https://github.com/AbrarRagib)** | Python · REST API · OAuth |
+| **[JMeter Load Testing (Restful-Booker)](https://github.com/AbrarRagib)** | Apache JMeter · Performance |
+| **[Security Testing](https://github.com/AbrarRagib)** | Web Security · OWASP |
+
+> ↗ Browse everything on [github.com/AbrarRagib](https://github.com/AbrarRagib)
 
 ---
 
@@ -109,14 +124,17 @@ class AbrarRagib:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbrarRagib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060608&title_color=6c63ff&icon_color=00e5c0&text_color=f0f0f8&ring_color=6c63ff" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrarRagib&theme=github_dark" />
+&nbsp;
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AbrarRagib&theme=tokyonight&hide_border=true&background=060608&ring=6c63ff&fire=00e5c0&currStreakLabel=00e5c0&sideLabels=f0f0f8&dates=8888aa" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarRagib&layout=compact&theme=tokyonight&hide_border=true&bg_color=060608&title_color=6c63ff&text_color=f0f0f8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbrarRagib&theme=github_dark" />
+&nbsp;
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbrarRagib&theme=github_dark" />
 
 </div>
 

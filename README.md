@@ -162,7 +162,7 @@ class AbrarRagib:
 
 ▶  Jun 2021 – Jan 2022  │  AIUB
                          │  Teaching Assistant — Computer Science
-                         │  → C++ & computer graphics lab sessions for 50+ students
+                         │  → C++ & computer graphics lab sessions for 100+ students
 
 ```
 
